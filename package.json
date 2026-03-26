@@ -1,0 +1,10 @@
+{
+  "name": "llivo-upload-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sharetribe-flex-integration-sdk": "^1.11.0",
+    "node-fetch": "^2.6.9"
+  }
+}
